@@ -1,1 +1,1 @@
-# MyCertifiedCourses
+# My Linked Certified Courses
